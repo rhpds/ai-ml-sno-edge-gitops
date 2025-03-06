@@ -8,7 +8,7 @@ deployer:
 
 rhoai:
   repoURL: https://github.com/rhpds/ocp-cluster-addons
-  targetRevision: v1.2.3
+  targetRevision: main
   path: rhoai
   namespace: redhat-ods-operator
   # startingCSV: rhods-operator.x.y.z
